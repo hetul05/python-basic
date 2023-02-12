@@ -4,3 +4,4 @@ print(story.endswith("on"))#it will check the ending part of string and return a
 print(story.count("h"))#it wil check the occurance of h in string
 print(story.capitalize())#it will capitalize the first word of string
 print(story.find("is"))
+print(story.replace("hetul","HETUL"))#will replace the word
