@@ -19,4 +19,5 @@ s={1,5,7,8}
 # s.clear()# clear the set
 # s.union({5,8,2})# it will add the set into existing set 
 
+
 print(s)
