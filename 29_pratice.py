@@ -4,9 +4,9 @@ b=input("parth enter your fav song:\n")
 c=input("faizal enter your fav song:\n")
 d=input("yatharth enter your fav song:\n")
 dic={
-    "hetul":"a",
-    "parth":"b",
-    "faizal":"c",
-    "yatharth":"d"
+    "hetul":a,
+    "parth":b,
+    "faizal":c,
+    "yatharth":d
 }
 print(dic)
