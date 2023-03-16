@@ -4,7 +4,7 @@ b=input("parth enter your fav song:\n")
 c=input("faizal enter your fav song:\n")
 d=input("yatharth enter your fav song:\n")
 dic={
-    "hetul":a,# here we used a rather than "a" becoz "a" behave as a string rather than value
+    "hetul":a,# here we used {a} rather than "a" becoz "a" behave as a string rather than value
     "parth":b,
     "faizal":c,
     "yatharth":d
